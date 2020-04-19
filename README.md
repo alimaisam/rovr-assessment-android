@@ -9,7 +9,7 @@ git clone https://github.com/alimaisam/rovr-assessment-android.git
 ## Pre-requisite
 
 - Android SDK 23 and above
-- Android Emulator
+- Android Emulator or Android Device
 
 ## To Get Data from API on Android Emulator
 
