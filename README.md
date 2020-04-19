@@ -27,8 +27,3 @@ git clone https://github.com/alimaisam/rovr-assessment-android.git
 Start emulator with this command from terminal 
 $ emulator @<EMULATOR-NAME> -dns-server 8.8.8.8
 ```
-
-## Limitation
-
-* Used JSON file to read and write data instead of any database
-* Unit test only Search Model
