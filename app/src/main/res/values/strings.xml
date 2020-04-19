@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubSearch</string>
+    <string name="search_language">Search By Language</string>
+    <string name="search_topic">Search By Topic</string>
+    <string name="admin_report">Generate Report</string>
+    <string name="title_activity_repo_list">RepoListActivity</string>
+</resources>
